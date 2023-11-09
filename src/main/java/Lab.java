@@ -27,7 +27,7 @@ public class Lab {
     }
 
     /**
-     * Get the size of a map. (number of key/value paris)
+     * Get the size of a map. (number of key/value pairs)
      * @param map a map to be manipulated.
      * @return the size of map.
      */
